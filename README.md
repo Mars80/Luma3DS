@@ -1,5 +1,5 @@
 # Luma3DS
-*Noob-proof (N)3DS "Custom Firmware"*
+*Corrupt your 3DS Here, just download this and run the payload"*
 
 ## What it is
 
